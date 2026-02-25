@@ -55,17 +55,6 @@ export default function RootLayout({
         {/* HREFLANG TAGS - Global language alternates */}
         <link rel="alternate" hrefLang="x-default" href="https://aenfinite.sydney/" />
         <link rel="alternate" hrefLang="en" href="https://aenfinite.sydney/" />
-        <link rel="alternate" hrefLang="es" href="https://aenfinite.sydney/es/" />
-        <link rel="alternate" hrefLang="fr" href="https://aenfinite.sydney/fr/" />
-        <link rel="alternate" hrefLang="de" href="https://aenfinite.sydney/de/" />
-        <link rel="alternate" hrefLang="it" href="https://aenfinite.sydney/it/" />
-        <link rel="alternate" hrefLang="ar" href="https://aenfinite.sydney/ar/" />
-        <link rel="alternate" hrefLang="pt" href="https://aenfinite.sydney/pt/" />
-        <link rel="alternate" hrefLang="zh" href="https://aenfinite.sydney/zh/" />
-        <link rel="alternate" hrefLang="hi" href="https://aenfinite.sydney/hi/" />
-        <link rel="alternate" hrefLang="nl" href="https://aenfinite.sydney/nl/" />
-        <link rel="alternate" hrefLang="ja" href="https://aenfinite.sydney/ja/" />
-        <link rel="alternate" hrefLang="ko" href="https://aenfinite.sydney/ko/" />
         {/* END HREFLANG */}
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />

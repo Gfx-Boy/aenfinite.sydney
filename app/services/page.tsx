@@ -1,13 +1,13 @@
-﻿import type { Metadata } from 'next';
+import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Professional Web Design & Digital Marketing Services | Logo Design & Branding | AenfiniteÂ®",
-  description: "AenfiniteÂ® offers professional web design, logo design, branding, and digital marketing services. Custom websites, mobile apps, SEO, and creative solutions that drive business growth. Get your free consultation today.",
+  title: "Professional Web Design & Digital Marketing Services | Logo Design & Branding | Aenfinite®",
+  description: "Aenfinite® offers professional web design, logo design, branding, and digital marketing services. Custom websites, mobile apps, SEO, and creative solutions that drive business growth. Get your free consultation today.",
   keywords: "web design services, digital marketing services, logo design, branding services, SEO services, app development, custom web development, graphic design, social media marketing, Aenfinite",
-  alternates: { canonical: "https://aenfinite.sydney/services/", languages: {"x-default":"https://aenfinite.sydney/services/","en":"https://aenfinite.sydney/services/","es":"https://aenfinite.sydney/es/services/","fr":"https://aenfinite.sydney/fr/services/","de":"https://aenfinite.sydney/de/services/","it":"https://aenfinite.sydney/it/services/","ar":"https://aenfinite.sydney/ar/services/","pt":"https://aenfinite.sydney/pt/services/","zh":"https://aenfinite.sydney/zh/services/","hi":"https://aenfinite.sydney/hi/services/","nl":"https://aenfinite.sydney/nl/services/","ja":"https://aenfinite.sydney/ja/services/","ko":"https://aenfinite.sydney/ko/services/"} },
-  openGraph: {"title":"Professional Web Design & Digital Marketing Services | Logo Design & Branding | AenfiniteÂ®","description":"Expert web design, logo design, branding, and digital marketing services that elevate your brand and boost online growth. Get a consultation today.","url":"https://aenfinite.sydney/services/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.sydney/wp-content/themes/aenfinite.sydney/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Professional Web Design & Digital Marketing Services | AenfiniteÂ®","description":"Aenfinite provides creative web design, branding, logo design, and digital marketing services tailored for growth.","images":["https://aenfinite.sydney/wp-content/themes/aenfinite.sydney/images/thumbnail.jpg"]},
+  alternates: { canonical: "https://aenfinite.sydney/services/", languages: {"x-default":"https://aenfinite.sydney/services/","en":"https://aenfinite.sydney/services/"} },
+  openGraph: {"title":"Professional Web Design & Digital Marketing Services | Logo Design & Branding | Aenfinite®","description":"Expert web design, logo design, branding, and digital marketing services that elevate your brand and boost online growth. Get a consultation today.","url":"https://aenfinite.sydney/services/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.sydney/wp-content/themes/aenfinite.sydney/images/thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Professional Web Design & Digital Marketing Services | Aenfinite®","description":"Aenfinite provides creative web design, branding, logo design, and digital marketing services tailored for growth.","images":["https://aenfinite.sydney/wp-content/themes/aenfinite.sydney/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -648,7 +648,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 								<a href="../services/">Services</a>
 								<ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Development Solutions â€º</a>
+										<a href="#">Development Solutions ›</a>
 										<ul class="sub-menu">
 											                                            
 											<li><a href="/services/wordpress-websites/">WordPress Websites</a></li>
@@ -660,7 +660,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<li><a href="/services/web-design-and-branding-for-real-estate/">Real Estate Web Solutions</a></li>									</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Design & Creative Services â€º</a>
+										<a href="#">Design & Creative Services ›</a>
 										<ul class="sub-menu">
 											<li><a href="/services/ui-ux-design/">UI/UX Design</a></li>
 											<li><a href="/services/branding/">Brand Identity & Strategy</a></li>
@@ -671,7 +671,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Marketing & Digital Solutions â€º</a>
+										<a href="#">Marketing & Digital Solutions ›</a>
 										<ul class="sub-menu">
 											<li><a href="/services/digital-marketing/">Digital Marketing Strategy</a></li>
 											<li><a href="/services/search-engine-optimization/">Search Engine Optimization (SEO)</a></li>
@@ -683,7 +683,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 							</li>
 							<li class="menu-item menu-item-has-children">
-										<a href="#">AI & Technology Solutions â€º</a>
+										<a href="#">AI & Technology Solutions ›</a>
 										<ul class="sub-menu">
 											<li><a href="/services/ai-chatbots-&-virtual-assistants/">AI Chatbots & Virtual Assistants</a></li>
 											<li><a href="/services/workflow-&-business-automation/">Workflow & Business Automation</a></li>
@@ -895,7 +895,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
     <span class="marquee-line_text">Serving Clients Across the US, Canada & Beyond</span>
     <span class="marquee-line_text">Experts in UI/UX, SEO & Growth Marketing</span>
     <span class="marquee-line_text">Trusted by Startups & Global Enterprises</span>
-    <span class="marquee-line_text">Skilled Team â€“ React, WordPress, Firebase, Figma</span>
+    <span class="marquee-line_text">Skilled Team – React, WordPress, Firebase, Figma</span>
     <span class="marquee-line_text">Agile & Data-Driven Development Process</span>
     <span class="marquee-line_text">Global Agency with Southeast Asian Roots</span>
     <span class="marquee-line_text">Empowering Businesses with Scalable Solutions</span>
@@ -1488,7 +1488,7 @@ from our clients</div>
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>Have a Project in Mind? Letâ€™s Build Something Great Together.</span>
+								<span>Have a Project in Mind? Let’s Build Something Great Together.</span>
 								<a href="../contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
@@ -2067,7 +2067,7 @@ export default function Page() {
     {
       "@type": "Organization",
       "@id": "https://aenfinite.sydney/#organization",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "url": "https://aenfinite.sydney",
       "logo": "https://aenfinite.sydney/wp-content/uploads/2024/11/share-image-dd.jpg",
       "sameAs": [
@@ -2080,7 +2080,7 @@ export default function Page() {
       "@type": "WebSite",
       "@id": "https://aenfinite.sydney/#website",
       "url": "https://aenfinite.sydney",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "alternateName": "Aenfinite - Digital Innovation Agency",
       "publisher": { "@id": "https://aenfinite.sydney/#organization" },
       "inLanguage": "en-US"
@@ -2089,7 +2089,7 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.sydney/services/#webpage",
       "url": "https://aenfinite.sydney/services/",
-      "name": "Services | AenfiniteÂ®",
+      "name": "Services | Aenfinite®",
       "isPartOf": { "@id": "https://aenfinite.sydney/#website" },
       "about": { "@id": "https://aenfinite.sydney/#organization" },
       "primaryImageOfPage": {
@@ -2098,7 +2098,7 @@ export default function Page() {
         "url": "https://aenfinite.sydney/wp-content/uploads/2024/11/share-image-dd.jpg",
         "width": 1200,
         "height": 630,
-        "caption": "AenfiniteÂ® - Digital Agency Services"
+        "caption": "Aenfinite® - Digital Agency Services"
       },
       "datePublished": "2022-07-18T12:21:25-04:00",
       "dateModified": "2025-07-14T13:22:44-04:00",
@@ -2114,9 +2114,9 @@ export default function Page() {
     {
       "@type": "Article",
       "@id": "https://aenfinite.sydney/services/#article",
-      "headline": "Professional Web Design & Digital Marketing Services | Logo Design & Branding | AenfiniteÂ®",
+      "headline": "Professional Web Design & Digital Marketing Services | Logo Design & Branding | Aenfinite®",
       "keywords": "Web Design, Logo Design, Branding, Digital Marketing, SEO, Creative Agency, Website Development",
-      "description": "Aenfinite delivers professional design and marketing solutions â€” from websites and logos to SEO and branding strategies that drive measurable results.",
+      "description": "Aenfinite delivers professional design and marketing solutions — from websites and logos to SEO and branding strategies that drive measurable results.",
       "datePublished": "2022-07-18T12:21:25-04:00",
       "dateModified": "2025-07-14T13:22:44-04:00",
       "publisher": { "@id": "https://aenfinite.sydney/#organization" },
@@ -2143,7 +2143,7 @@ export default function Page() {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
   "@id": "https://aenfinite.sydney/#business",
-  "name": "AenfiniteÂ®",
+  "name": "Aenfinite®",
   "description": "Professional web design, branding, and digital marketing agency specializing in custom websites, SEO, and creative solutions for businesses.",
   "url": "https://aenfinite.sydney",
   "logo": "https://aenfinite.sydney/wp-content/uploads/2024/11/share-image-dd.jpg",

@@ -1,13 +1,13 @@
-﻿import type { Metadata } from 'next';
+import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Contact AenfiniteÂ® | Creative Digital Web Agency in Sydney | Web Design & Marketing Experts",
-  description: "Contact AenfiniteÂ®, a creative digital web agency based in Sydney. Let",
+  title: "Contact Aenfinite® | Creative Digital Web Agency in Sydney | Web Design & Marketing Experts",
+  description: "Contact Aenfinite®, a creative digital web agency based in Sydney. Let",
   keywords: "contact Aenfinite, Sydney web agency contact, get a quote, free consultation, web design inquiry, digital marketing contact, Aenfinite contact",
-  alternates: { canonical: "https://aenfinite.sydney/contact/", languages: {"x-default":"https://aenfinite.sydney/contact/","en":"https://aenfinite.sydney/contact/","es":"https://aenfinite.sydney/es/contact/","fr":"https://aenfinite.sydney/fr/contact/","de":"https://aenfinite.sydney/de/contact/","it":"https://aenfinite.sydney/it/contact/","ar":"https://aenfinite.sydney/ar/contact/","pt":"https://aenfinite.sydney/pt/contact/","zh":"https://aenfinite.sydney/zh/contact/","hi":"https://aenfinite.sydney/hi/contact/","nl":"https://aenfinite.sydney/nl/contact/","ja":"https://aenfinite.sydney/ja/contact/","ko":"https://aenfinite.sydney/ko/contact/"} },
-  openGraph: {"title":"Contact AenfiniteÂ® | Creative Digital Web Agency in Sydney","description":"Reach out to Aenfinite â€” your partner for innovative web design, branding, and digital marketing solutions across the US and Canada.","url":"https://aenfinite.sydney/contact/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.sydney/wp-content/uploads/2025/09/aenfinite-contact-page-social.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Contact AenfiniteÂ® | Web Design, Branding & Marketing Experts","description":"Let","images":["https://aenfinite.sydney/wp-content/uploads/2025/09/aenfinite-contact-page-social.jpg"]},
+  alternates: { canonical: "https://aenfinite.sydney/contact/", languages: {"x-default":"https://aenfinite.sydney/contact/","en":"https://aenfinite.sydney/contact/"} },
+  openGraph: {"title":"Contact Aenfinite® | Creative Digital Web Agency in Sydney","description":"Reach out to Aenfinite — your partner for innovative web design, branding, and digital marketing solutions across the US and Canada.","url":"https://aenfinite.sydney/contact/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.sydney/wp-content/uploads/2025/09/aenfinite-contact-page-social.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Contact Aenfinite® | Web Design, Branding & Marketing Experts","description":"Let","images":["https://aenfinite.sydney/wp-content/uploads/2025/09/aenfinite-contact-page-social.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -580,7 +580,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                 <a href="/services/">Services</a>
                                 <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">Development Solutions â€º</a>
+                                        <a href="#">Development Solutions ›</a>
                                         <ul class="sub-menu">
                                             
 											<li><a href="/services/wordpress-websites/">WordPress Websites</a></li>
@@ -592,7 +592,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<li><a href="/services/web-design-and-branding-for-real-estate/">Real Estate Web Solutions</a></li>                                      </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">Design & Creative Services â€º</a>
+                                        <a href="#">Design & Creative Services ›</a>
                                         <ul class="sub-menu">
                                             <li><a href="/services/ui-ux-design/">UI/UX Design</a></li>
 
@@ -604,7 +604,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">Marketing & Digital Solutions â€º</a>
+                                        <a href="#">Marketing & Digital Solutions ›</a>
                                         <ul class="sub-menu">
                                             <li><a href="/services/digital-marketing/">Digital Marketing Strategy</a></li>
                                             <li><a href="/services/search-engine-optimization/">Search Engine Optimization (SEO)</a></li>
@@ -614,7 +614,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">AI & Technology Solutions â€º</a>
+                                        <a href="#">AI & Technology Solutions ›</a>
                                         <ul class="sub-menu">
                                             <li><a href="/services/ai-chatbots-&-virtual-assistants/">AI Chatbots & Virtual Assistants</a></li>
                                             <li><a href="/services/workflow-&-business-automation/">Workflow & Business Automation</a></li>
@@ -786,7 +786,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 				<div class="section fade-in-delay-1">
 					<div class="wrapper">
 						<div class="textbox-content normaltext" style="text-align: center;">
-							<h1 style><strong>Get in Touch with Aenfiniteâ„¢</strong></h1>						</div>
+							<h1 style><strong>Get in Touch with Aenfinite™</strong></h1>						</div>
 					</div>
 				</div>
 				
@@ -1385,7 +1385,7 @@ City of Sydney, Australia
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>Have a Project in Mind? Letâ€™s Build Something Great Together.</span>
+								<span>Have a Project in Mind? Let’s Build Something Great Together.</span>
 								<a href="" class="redlink">
 									<span>let's talk</span>
 								</a>
@@ -1478,7 +1478,7 @@ City of Sydney, Australia
 							<div class="topbar">
 								<div class="topbar-logo">
 									<a href="../">
-										<img src="/wp-content/themes/aenfinite.sydney/images/aenfinite-full.svg" alt="AenfiniteÂ®" loading="lazy" decoding="async" />
+										<img src="/wp-content/themes/aenfinite.sydney/images/aenfinite-full.svg" alt="Aenfinite®" loading="lazy" decoding="async" />
 									</a>
 								</div>
 								<div class="menu-close js-menu-toggle"><i></i></div>
@@ -1860,7 +1860,7 @@ export default function Page() {
   "@type": "LocalBusiness",
   "name": "Aenfinite",
   "url": "https://aenfinite.sydney",
-  "description": "Contact AenfiniteÂ®, a creative digital web agency based in Sydney. Let",
+  "description": "Contact Aenfinite®, a creative digital web agency based in Sydney. Let",
   "address": {
     "@type": "PostalAddress",
     "addressLocality": "Sydney",
@@ -1890,8 +1890,8 @@ export default function Page() {
           dangerouslySetInnerHTML={{ __html: `{
   "@context": "https://schema.org",
   "@type": "ContactPage",
-  "name": "Contact AenfiniteÂ® | Creative Digital Web Agency in Sydney | Web Design & Marketing Experts",
-  "description": "Contact AenfiniteÂ®, a creative digital web agency based in Sydney. Let",
+  "name": "Contact Aenfinite® | Creative Digital Web Agency in Sydney | Web Design & Marketing Experts",
+  "description": "Contact Aenfinite®, a creative digital web agency based in Sydney. Let",
   "url": "https://aenfinite.sydney/contact/",
   "publisher": {
     "@type": "Organization",
@@ -1920,7 +1920,7 @@ export default function Page() {
     {
       "@type": "ListItem",
       "position": 2,
-      "name": "Contact AenfiniteÂ®",
+      "name": "Contact Aenfinite®",
       "item": "https://aenfinite.sydney/contact/"
     }
   ]

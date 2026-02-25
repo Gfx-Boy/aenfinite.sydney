@@ -1,13 +1,13 @@
-﻿import type { Metadata } from 'next';
+import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Expert Digital Marketing Services | Social Media, Content & Email Marketing | AenfiniteÂ®",
-  description: "AenfiniteÂ® is a top digital marketing agency offering expert services in social media marketing, content creation, email marketing, and online brand management. Drive engagement, visibility, and growth with our strategic digital marketing solutions.",
+  title: "Expert Digital Marketing Services | Social Media, Content & Email Marketing | Aenfinite®",
+  description: "Aenfinite® is a top digital marketing agency offering expert services in social media marketing, content creation, email marketing, and online brand management. Drive engagement, visibility, and growth with our strategic digital marketing solutions.",
   keywords: "digital marketing, social media marketing, content marketing, email marketing, online marketing, digital advertising, brand management, marketing strategy, Aenfinite",
-  alternates: { canonical: "https://aenfinite.sydney/services/digital-marketing/", languages: {"x-default":"https://aenfinite.sydney/services/digital-marketing/","en":"https://aenfinite.sydney/services/digital-marketing/","es":"https://aenfinite.sydney/es/services/digital-marketing/","fr":"https://aenfinite.sydney/fr/services/digital-marketing/","de":"https://aenfinite.sydney/de/services/digital-marketing/","it":"https://aenfinite.sydney/it/services/digital-marketing/","ar":"https://aenfinite.sydney/ar/services/digital-marketing/","pt":"https://aenfinite.sydney/pt/services/digital-marketing/","zh":"https://aenfinite.sydney/zh/services/digital-marketing/","hi":"https://aenfinite.sydney/hi/services/digital-marketing/","nl":"https://aenfinite.sydney/nl/services/digital-marketing/","ja":"https://aenfinite.sydney/ja/services/digital-marketing/","ko":"https://aenfinite.sydney/ko/services/digital-marketing/"} },
-  openGraph: {"title":"Expert Digital Marketing Services | Social Media, Content & Email Marketing | AenfiniteÂ®","description":"AenfiniteÂ® delivers expert digital marketing services including social media management, content strategy, and email campaigns. Empower your brand with data-driven marketing.","url":"https://aenfinite.sydney/services/digital-marketing/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.sydney/wp-content/themes/aenfinite.sydney/images/thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"Expert Digital Marketing Services | Social Media, Content & Email Marketing | AenfiniteÂ®","description":"AenfiniteÂ® provides full-service digital marketing including social media strategy, content marketing, and email campaigns to drive brand growth.","images":["https://aenfinite.sydney/wp-content/themes/aenfinite.sydney/images/thumbnail.jpg"]},
+  alternates: { canonical: "https://aenfinite.sydney/services/digital-marketing/", languages: {"x-default":"https://aenfinite.sydney/services/digital-marketing/","en":"https://aenfinite.sydney/services/digital-marketing/"} },
+  openGraph: {"title":"Expert Digital Marketing Services | Social Media, Content & Email Marketing | Aenfinite®","description":"Aenfinite® delivers expert digital marketing services including social media management, content strategy, and email campaigns. Empower your brand with data-driven marketing.","url":"https://aenfinite.sydney/services/digital-marketing/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.sydney/wp-content/themes/aenfinite.sydney/images/thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Expert Digital Marketing Services | Social Media, Content & Email Marketing | Aenfinite®","description":"Aenfinite® provides full-service digital marketing including social media strategy, content marketing, and email campaigns to drive brand growth.","images":["https://aenfinite.sydney/wp-content/themes/aenfinite.sydney/images/thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -1111,7 +1111,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                 <a href="/services/">Services</a>
                                <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Development Solutions â€º</a>
+										<a href="#">Development Solutions ›</a>
 										<ul class="sub-menu">
 											                                            
 											<li><a href="/services/wordpress-websites/">WordPress Websites</a></li>
@@ -1123,7 +1123,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<li><a href="/services/web-design-and-branding-for-real-estate/">Real Estate Web Solutions</a></li>									</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Design & Creative Services â€º</a>
+										<a href="#">Design & Creative Services ›</a>
 										<ul class="sub-menu">
 											<li><a href="/services/ui-ux-design/">UI/UX Design</a></li>
 											<li><a href="/services/branding/">Brand Identity & Strategy</a></li>
@@ -1134,7 +1134,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										</ul>
 									</li>
 									<li class="menu-item menu-item-has-children">
-										<a href="#">Marketing & Digital Solutions â€º</a>
+										<a href="#">Marketing & Digital Solutions ›</a>
 										<ul class="sub-menu">
 											<li><a href="/services/digital-marketing/">Digital Marketing Strategy</a></li>
 											<li><a href="/services/search-engine-optimization/">Search Engine Optimization (SEO)</a></li>
@@ -1146,7 +1146,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 
 							</li>
 							<li class="menu-item menu-item-has-children">
-										<a href="#">AI & Technology Solutions â€º</a>
+										<a href="#">AI & Technology Solutions ›</a>
 										<ul class="sub-menu">
 											<li><a href="/services/ai-chatbots-&-virtual-assistants/">AI Chatbots & Virtual Assistants</a></li>
 											<li><a href="/services/workflow-&-business-automation/">Workflow & Business Automation</a></li>
@@ -1783,7 +1783,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>Have a Project in Mind? Letâ€™s Build Something Great Together.</span>
+								<span>Have a Project in Mind? Let’s Build Something Great Together.</span>
 								<a href="../../contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
@@ -2311,7 +2311,7 @@ export default function Page() {
     {
       "@type": "Organization",
       "@id": "https://aenfinite.sydney/#organization",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "url": "https://aenfinite.sydney",
       "sameAs": [
         "https://www.facebook.com/aenfinite/",
@@ -2323,8 +2323,8 @@ export default function Page() {
       "@type": "WebSite",
       "@id": "https://aenfinite.sydney/#website",
       "url": "https://aenfinite.sydney",
-      "name": "AenfiniteÂ®",
-      "alternateName": "AenfiniteÂ® - SEO & Digital Marketing Agency",
+      "name": "Aenfinite®",
+      "alternateName": "Aenfinite® - SEO & Digital Marketing Agency",
       "publisher": { "@id": "https://aenfinite.sydney/#organization" },
       "inLanguage": "en-US"
     },
@@ -2334,7 +2334,7 @@ export default function Page() {
       "url": "https://aenfinite.sydney/wp-content/uploads/2024/11/share-image-dd.jpg",
       "width": "1200",
       "height": "630",
-      "caption": "AenfiniteÂ® Brand - Digital Marketing Agency",
+      "caption": "Aenfinite® Brand - Digital Marketing Agency",
       "inLanguage": "en-US"
     },
     {
@@ -2350,7 +2350,7 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.sydney/services/digital-marketing/#webpage",
       "url": "https://aenfinite.sydney/services/digital-marketing/",
-      "name": "Expert Digital Marketing Services | Social Media, Content & Email Marketing | AenfiniteÂ®",
+      "name": "Expert Digital Marketing Services | Social Media, Content & Email Marketing | Aenfinite®",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-07-12T11:13:56-04:00",
       "isPartOf": { "@id": "https://aenfinite.sydney/#website" },
@@ -2360,13 +2360,13 @@ export default function Page() {
     },
     {
       "@type": "Article",
-      "headline": "Expert Digital Marketing Services | Social Media, Content & Email Marketing | AenfiniteÂ®",
+      "headline": "Expert Digital Marketing Services | Social Media, Content & Email Marketing | Aenfinite®",
       "keywords": "Digital Marketing, Social Media, Email Marketing, Content Strategy, Online Branding, Marketing Agency",
       "datePublished": "2022-10-16T21:16:37-04:00",
       "dateModified": "2025-07-12T11:13:56-04:00",
-      "author": { "@type": "Organization", "name": "AenfiniteÂ®" },
+      "author": { "@type": "Organization", "name": "Aenfinite®" },
       "publisher": { "@id": "https://aenfinite.sydney/#organization" },
-      "description": "AenfiniteÂ® delivers expert digital marketing solutions â€” from social media management and content marketing to email automation and branding strategies designed for growth.",
+      "description": "Aenfinite® delivers expert digital marketing solutions — from social media management and content marketing to email automation and branding strategies designed for growth.",
       "image": { "@id": "https://aenfinite.sydney/wp-content/uploads/2024/11/share-image-dd.jpg" },
       "inLanguage": "en-US",
       "mainEntityOfPage": { "@id": "https://aenfinite.sydney/services/digital-marketing/#webpage" }

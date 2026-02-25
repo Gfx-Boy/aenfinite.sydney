@@ -1,11 +1,11 @@
-﻿import type { Metadata } from 'next';
+import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
   title: "Professional Branding Portfolio | Aenfinite Creative Studio",
   description: "Explore Aenfinite",
   keywords: "branding portfolio, brand identity projects, branding case studies, logo and branding, creative branding, Aenfinite branding work",
-  alternates: { canonical: "https://aenfinite.sydney/work/branding/", languages: {"x-default":"https://aenfinite.sydney/work/branding/","en":"https://aenfinite.sydney/work/branding/","es":"https://aenfinite.sydney/es/work/branding/","fr":"https://aenfinite.sydney/fr/work/branding/","de":"https://aenfinite.sydney/de/work/branding/","it":"https://aenfinite.sydney/it/work/branding/","ar":"https://aenfinite.sydney/ar/work/branding/","pt":"https://aenfinite.sydney/pt/work/branding/","zh":"https://aenfinite.sydney/zh/work/branding/","hi":"https://aenfinite.sydney/hi/work/branding/","nl":"https://aenfinite.sydney/nl/work/branding/","ja":"https://aenfinite.sydney/ja/work/branding/","ko":"https://aenfinite.sydney/ko/work/branding/"} },
+  alternates: { canonical: "https://aenfinite.sydney/work/branding/", languages: {"x-default":"https://aenfinite.sydney/work/branding/","en":"https://aenfinite.sydney/work/branding/"} },
   openGraph: {"title":"Professional Branding Portfolio | Aenfinite Creative Studio","description":"Explore Aenfinite","url":"https://aenfinite.sydney/work/graphic-design/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.sydney/wp-content/themes/aenfinite.sydney/images/branding-thumbnail.jpg"}]},
   twitter: {"card":"summary_large_image","title":"Professional Branding Portfolio | Aenfinite Creative Studio","description":"Explore Aenfinite","images":["https://aenfinite.sydney/wp-content/themes/aenfinite.sydney/images/branding-thumbnail.jpg"]},
   robots: { index: true, follow: true },
@@ -501,7 +501,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		'https://www.googletagmanager.com/gtm5445.html?id='+i+dl;f.parentNode.insertBefore(j,f);
 		})(window,document,'script','dataLayer','GTM-53L4TW5R');</script>
-<script> (function(){ var s = document.createElement('script'); var h = document.querySelector('head') || document.body; s.src = 'https://acsbapp.com/apps/app/dist/js/app.js'; s.async = true; s.onload = function(){ acsbJS.init({ statementLink : '', footerHtml : 'Web Accessibility Powered by Aenfinite with ï¸', hideMobile : false, hideTrigger : false, disableBgProcess : false, language : 'en', position : 'left', leadColor : '#000000', triggerColor : '#050505', triggerRadius : '10px', triggerPositionX : 'left', triggerPositionY : 'bottom', triggerIcon : 'display', triggerSize : 'small', triggerOffsetX : 40, triggerOffsetY : 40, mobile : { triggerSize : 'small', triggerPositionX : 'right', triggerPositionY : 'center', triggerOffsetX : 10, triggerOffsetY : 0, triggerRadius : '50%' } }); }; h.appendChild(s); })(); </script>
+<script> (function(){ var s = document.createElement('script'); var h = document.querySelector('head') || document.body; s.src = 'https://acsbapp.com/apps/app/dist/js/app.js'; s.async = true; s.onload = function(){ acsbJS.init({ statementLink : '', footerHtml : 'Web Accessibility Powered by Aenfinite with ️', hideMobile : false, hideTrigger : false, disableBgProcess : false, language : 'en', position : 'left', leadColor : '#000000', triggerColor : '#050505', triggerRadius : '10px', triggerPositionX : 'left', triggerPositionY : 'bottom', triggerIcon : 'display', triggerSize : 'small', triggerOffsetX : 40, triggerOffsetY : 40, mobile : { triggerSize : 'small', triggerPositionX : 'right', triggerPositionY : 'center', triggerOffsetX : 10, triggerOffsetY : 0, triggerRadius : '50%' } }); }; h.appendChild(s); })(); </script>
 <script>
 		document.addEventListener('DOMContentLoaded', function() {
 			// Check if it's a mobile device
@@ -641,7 +641,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                 <a href="/services/">Services</a>
                                 <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">Development Solutions â€º</a>
+                                        <a href="#">Development Solutions ›</a>
                                         <ul class="sub-menu">
                                             <li><a href="/services/wordpress-websites/">WordPress Websites</a></li>
 <li><a href="/services/e-commerce-websites/">E-Commerce Websites</a></li>
@@ -652,7 +652,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<li><a href="/services/web-design-and-branding-for-real-estate/">Real Estate Web Solutions</a></li>                                      </ul>
                                     </li>
 									<li class="menu-item menu-item-has-children">
-                                    <a href="#">Design & Creative Services â€º</a>
+                                    <a href="#">Design & Creative Services ›</a>
 										<ul class="sub-menu">
 											<li><a href="/services/ui-ux-design/">UI/UX Design</a></li>
 											<li><a href="/services/branding/">Brand Identity & Strategy</a></li>
@@ -663,7 +663,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										</ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">Marketing & Digital Solutions â€º</a>
+                                        <a href="#">Marketing & Digital Solutions ›</a>
                                         <ul class="sub-menu">
                                             <li><a href="/services/digital-marketing/">Digital Marketing Strategy</a></li>
                                             <li><a href="/services/search-engine-optimization/">Search Engine Optimization (SEO)</a></li>
@@ -673,7 +673,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">AI & Technology Solutions â€º</a>
+                                        <a href="#">AI & Technology Solutions ›</a>
                                         <ul class="sub-menu">
                                             <li><a href="/services/ai-chatbots-&-virtual-assistants/">AI Chatbots & Virtual Assistants</a></li>
                                             <li><a href="/services/workflow-&-business-automation/">Workflow & Business Automation</a></li>
@@ -763,7 +763,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		}
 		
 		.list-item input[type="checkbox"]:checked + .list-item-label::after {
-			content: 'âœ“';
+			content: '✓';
 			position: absolute;
 			right: 12px;
 			top: 50%;
@@ -1222,7 +1222,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									<div class="service-text">
 										<p> we design and develop world-class websites that combine modern design practices with powerful functionality. 
         Our mobile-first, SEO-friendly websites are built to performoptimized for speed, responsive across all devices, and crafted to deliver an exceptional user experience. 
-        From strategy to launch, our team focuses on creating a unique online presence that attracts your target audience, boosts engagement, drives conversions, and strengthens your brandâ€™s authority.</p>
+        From strategy to launch, our team focuses on creating a unique online presence that attracts your target audience, boosts engagement, drives conversions, and strengthens your brand’s authority.</p>
 									</div>
 									<div class="service-action">
 										<a href="/services/web-design/" class="redlink">
@@ -1258,8 +1258,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									</div>
 									<div class="service-text">
 										<p>our branding and logo design experts specialize in creating powerful brand identities that leave a lasting impression. 
-    Whether youâ€™re launching a new business, rebranding to reach fresh audiences, or refining your existing identity, we craft custom logos, brand guidelines, and visual systems tailored to your goals. 
-    With a distinctive and cohesive brand presence, youâ€™ll build trust, attract loyal customers, and maximize your business potential.</p>
+    Whether you’re launching a new business, rebranding to reach fresh audiences, or refining your existing identity, we craft custom logos, brand guidelines, and visual systems tailored to your goals. 
+    With a distinctive and cohesive brand presence, you’ll build trust, attract loyal customers, and maximize your business potential.</p>
 									</div>
 									<div class="service-action">
 										<a href="/services/branding/" class="redlink">
@@ -1434,7 +1434,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 																					</div>
 									</div>
 									<div class="service-text">
-										<p>We believe design is more than just visuals  itâ€™s a strategy to connect brands with people. 
+										<p>We believe design is more than just visuals  it’s a strategy to connect brands with people. 
     Our graphic design team blends creativity with purpose to produce stunning digital assets, print materials, and marketing visuals that tell your story. 
     From bold social media campaigns to polished corporate materials, every design is crafted to inspire action, build trust, and reflect your unique brand personality. 
     We deliver innovative, results-driven designs that capture attention and keep your audience engaged.</p>
@@ -1611,7 +1611,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>Have a Project in Mind? Letâ€™s Build Something Great Together.</span>
+								<span>Have a Project in Mind? Let’s Build Something Great Together.</span>
 								<a href="../../contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
@@ -2895,7 +2895,7 @@ export default function Page() {
     {
       "@type": "Organization",
       "@id": "https://aenfinite.sydney/#organization",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "url": "https://aenfinite.sydney/",
       "sameAs": [
         "https://www.facebook.com/aenfinite/",
@@ -2909,8 +2909,8 @@ export default function Page() {
       "@type": "WebSite",
       "@id": "https://aenfinite.sydney/#website",
       "url": "https://aenfinite.sydney/",
-      "name": "AenfiniteÂ®",
-      "alternateName": "AenfiniteÂ® - Professional Graphic Design & Visual Communications Studio",
+      "name": "Aenfinite®",
+      "alternateName": "Aenfinite® - Professional Graphic Design & Visual Communications Studio",
       "publisher": {"@id": "https://aenfinite.sydney/#organization"},
       "inLanguage": "en-US"
     },

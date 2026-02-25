@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: "Complete Design & Development Portfolio | All Work | Aenfinite",
   description: "Explore Aenfinite",
   keywords: "portfolio, design portfolio, web design portfolio, branding portfolio, case studies, client work, creative projects, Aenfinite portfolio",
-  alternates: { canonical: "https://aenfinite.sydney/work/", languages: {"x-default":"https://aenfinite.sydney/work/","en":"https://aenfinite.sydney/work/","es":"https://aenfinite.sydney/es/work/","fr":"https://aenfinite.sydney/fr/work/","de":"https://aenfinite.sydney/de/work/","it":"https://aenfinite.sydney/it/work/","ar":"https://aenfinite.sydney/ar/work/","pt":"https://aenfinite.sydney/pt/work/","zh":"https://aenfinite.sydney/zh/work/","hi":"https://aenfinite.sydney/hi/work/","nl":"https://aenfinite.sydney/nl/work/","ja":"https://aenfinite.sydney/ja/work/","ko":"https://aenfinite.sydney/ko/work/"} },
+  alternates: { canonical: "https://aenfinite.sydney/work/", languages: {"x-default":"https://aenfinite.sydney/work/","en":"https://aenfinite.sydney/work/"} },
   openGraph: {"title":"Complete Design & Development Portfolio | All Work | Aenfinite","description":"Explore Aenfinite","url":"https://aenfinite.sydney/work/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.sydney/wp-content/themes/aenfinite.sydney/images/portfolio-hero.jpg"}]},
   twitter: {"card":"summary_large_image","title":"Complete Design & Development Portfolio | All Work | Aenfinite","description":"Explore Aenfinite","images":["https://aenfinite.sydney/wp-content/themes/aenfinite.sydney/images/portfolio-hero.jpg"]},
   robots: { index: true, follow: true },

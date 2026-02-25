@@ -1,13 +1,13 @@
-﻿import type { Metadata } from 'next';
+import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
   title: "GoHighLevel Implementation & Automation Services | Aenfinite",
   description: "Get expert GoHighLevel implementation, automation, and white-label support with Aenfinite. We help agencies and businesses maximize CRM efficiency, streamline workflows, and scale faster with GHL.",
   keywords: "GoHighLevel implementation, GHL services, GoHighLevel automation, CRM implementation, GHL white label, workflow automation, Aenfinite GHL",
-  alternates: { canonical: "https://aenfinite.sydney/agency/partner-with-us/ghl-services/", languages: {"x-default":"https://aenfinite.sydney/agency/partner-with-us/ghl-services/","en":"https://aenfinite.sydney/agency/partner-with-us/ghl-services/","es":"https://aenfinite.sydney/es/agency/partner-with-us/ghl-services/","fr":"https://aenfinite.sydney/fr/agency/partner-with-us/ghl-services/","de":"https://aenfinite.sydney/de/agency/partner-with-us/ghl-services/","it":"https://aenfinite.sydney/it/agency/partner-with-us/ghl-services/","ar":"https://aenfinite.sydney/ar/agency/partner-with-us/ghl-services/","pt":"https://aenfinite.sydney/pt/agency/partner-with-us/ghl-services/","zh":"https://aenfinite.sydney/zh/agency/partner-with-us/ghl-services/","hi":"https://aenfinite.sydney/hi/agency/partner-with-us/ghl-services/","nl":"https://aenfinite.sydney/nl/agency/partner-with-us/ghl-services/","ja":"https://aenfinite.sydney/ja/agency/partner-with-us/ghl-services/","ko":"https://aenfinite.sydney/ko/agency/partner-with-us/ghl-services/"} },
+  alternates: { canonical: "https://aenfinite.sydney/agency/partner-with-us/ghl-services/", languages: {"x-default":"https://aenfinite.sydney/agency/partner-with-us/ghl-services/","en":"https://aenfinite.sydney/agency/partner-with-us/ghl-services/"} },
   openGraph: {"title":"GoHighLevel Implementation & Automation Services | Aenfinite","description":"Aenfinite helps agencies and entrepreneurs optimize GoHighLevel with expert setup, automation, and white-label CRM support.","url":"https://aenfinite.sydney/ghl-services/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.sydney/wp-content/uploads/2024/11/share-image-dd.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"GoHighLevel Implementation & Automation Services | Aenfinite","description":"Automate your agency workflows with Aenfiniteâ€™s GoHighLevel setup and white-label support services. Build efficient, scalable systems that convert.","images":["https://aenfinite.sydney/wp-content/uploads/2024/11/share-image-dd.jpg"]},
+  twitter: {"card":"summary_large_image","title":"GoHighLevel Implementation & Automation Services | Aenfinite","description":"Automate your agency workflows with Aenfinite’s GoHighLevel setup and white-label support services. Build efficient, scalable systems that convert.","images":["https://aenfinite.sydney/wp-content/uploads/2024/11/share-image-dd.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -747,7 +747,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                 <a href="/services/">Services</a>
                                 <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">Development Solutions â€º</a>
+                                        <a href="#">Development Solutions ›</a>
                                         <ul class="sub-menu">
                                             
 											<li><a href="/services/wordpress-websites/">WordPress Websites</a></li>
@@ -759,7 +759,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<li><a href="/services/web-design-and-branding-for-real-estate/">Real Estate Web Solutions</a></li>                                      </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">Design & Creative Services â€º</a>
+                                        <a href="#">Design & Creative Services ›</a>
                                         <ul class="sub-menu">
                                             <li><a href="/services/ui-ux-design/">UI/UX Design</a></li>
 
@@ -771,7 +771,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">Marketing & Digital Solutions â€º</a>
+                                        <a href="#">Marketing & Digital Solutions ›</a>
                                         <ul class="sub-menu">
                                             <li><a href="/services/digital-marketing/">Digital Marketing Strategy</a></li>
                                             <li><a href="/services/search-engine-optimization/">Search Engine Optimization (SEO)</a></li>
@@ -781,7 +781,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">AI & Technology Solutions â€º</a>
+                                        <a href="#">AI & Technology Solutions ›</a>
                                         <ul class="sub-menu">
                                             <li><a href="/services/ai-chatbots-&-virtual-assistants/">AI Chatbots & Virtual Assistants</a></li>
                                             <li><a href="/services/workflow-&-business-automation/">Workflow & Business Automation</a></li>
@@ -988,7 +988,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
     <span class="marquee-line_text">Serving Clients Across the US, Canada & Beyond</span>
     <span class="marquee-line_text">Experts in UI/UX, SEO & Growth Marketing</span>
     <span class="marquee-line_text">Trusted by Startups & Global Enterprises</span>
-    <span class="marquee-line_text">Skilled Team â€“ React, WordPress, Firebase, Figma</span>
+    <span class="marquee-line_text">Skilled Team – React, WordPress, Firebase, Figma</span>
     <span class="marquee-line_text">Agile & Data-Driven Development Process</span>
     <span class="marquee-line_text">Global Agency with Southeast Asian Roots</span>
     <span class="marquee-line_text">Empowering Businesses with Scalable Solutions</span>
@@ -1143,8 +1143,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
         <div class="infobox appear js-aos">
             <div class="infobox-title">GHL Setup & Configuration</div>
             <div class="infobox-description">
-                <p>Our experts handle the complete GoHighLevel setup from scratch so you donâ€™t have to worry about the technical details. We configure your account, connect your domains, set up SMTP & Twilio integrations, and customize pipelines, calendars, and automations to fit your exact business workflows. This ensures that your CRM, funnels, and communication tools work together seamlessly from Day 1.</p>
-                <p>By the time weâ€™re done, youâ€™ll have a fully branded, ready-to-use platform that feels like your own software not a generic tool. Our setup saves you hours of manual work and prevents costly misconfigurations.</p>
+                <p>Our experts handle the complete GoHighLevel setup from scratch so you don’t have to worry about the technical details. We configure your account, connect your domains, set up SMTP & Twilio integrations, and customize pipelines, calendars, and automations to fit your exact business workflows. This ensures that your CRM, funnels, and communication tools work together seamlessly from Day 1.</p>
+                <p>By the time we’re done, you’ll have a fully branded, ready-to-use platform that feels like your own software not a generic tool. Our setup saves you hours of manual work and prevents costly misconfigurations.</p>
             </div>
             <div class="infobox-action">
                 <a href="mailto:ghl@aenfinite.sydney?subject=GHL Setup Services" class="redlink">
@@ -1158,7 +1158,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
         <div class="infobox appear js-aos">
             <div class="infobox-title">Funnel Design & Development</div>
             <div class="infobox-description">
-                <p>We create beautiful, high-converting funnels that donâ€™t just look good they perform. Every landing page, form, and email sequence is strategically designed to maximize conversions and move leads closer to becoming paying clients.</p>
+                <p>We create beautiful, high-converting funnels that don’t just look good they perform. Every landing page, form, and email sequence is strategically designed to maximize conversions and move leads closer to becoming paying clients.</p>
                 <p>Our team combines conversion-focused design, copywriting, and automation to build a seamless experience from ad click to sale. Whether you need lead generation funnels, webinar registration, or product sales pages, we ensure that every step is optimized for engagement and ROI.</p>
                 <p>All funnels are mobile-responsive, speed-tested, and integrated with your CRM and automation workflows so nothing falls through the cracks.</p>
             </div>
@@ -1175,7 +1175,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
             <div class="infobox-title">White Label GHL Services</div>
             <div class="infobox-description">
                 <p>Scale your agency without adding extra overhead. Our White Label GHL service let's you offer GoHighLevel setup, funnel building, and automation services under your own brand  while we do all the heavy lifting behind the scenes.</p>
-                <p>We completely white-label the platform, including login screens, dashboards, and email notifications, so your clients only see <strong>your agencyâ€™s branding</strong>. Our team also helps you onboard clients, manage projects, and provide ongoing technical support  all under NDA.</p>
+                <p>We completely white-label the platform, including login screens, dashboards, and email notifications, so your clients only see <strong>your agency’s branding</strong>. Our team also helps you onboard clients, manage projects, and provide ongoing technical support  all under NDA.</p>
                 <p>This is perfect for agencies looking to expand service offerings quickly, increase monthly recurring revenue, and focus on client relationships while we handle fulfillment.</p>
             </div>
             <div class="infobox-action">
@@ -1305,7 +1305,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>Have a Project in Mind? Letâ€™s Build Something Great Together.</span>
+								<span>Have a Project in Mind? Let’s Build Something Great Together.</span>
 								<a href="../../contact/" class="redlink">
 									<span>let's talk</span>
 								</a>

@@ -1,13 +1,13 @@
-﻿import type { Metadata } from 'next';
+import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "AenfiniteÂ® â€“ Global Digital Agency for Web Design, Branding, SEO & AI Solutions",
-  description: "AenfiniteÂ® is a global digital agency based in New South Wales, offering Web Design, UI/UX, Branding, SEO, Digital Marketing, Business Automation, and AI-powered solutions for modern brands worldwide.",
+  title: "Aenfinite® – Global Digital Agency for Web Design, Branding, SEO & AI Solutions",
+  description: "Aenfinite® is a global digital agency based in New South Wales, offering Web Design, UI/UX, Branding, SEO, Digital Marketing, Business Automation, and AI-powered solutions for modern brands worldwide.",
   keywords: "digital agency, web design, branding, SEO, AI solutions, digital marketing, business automation, UI UX design, Aenfinite",
-  alternates: { canonical: "https://aenfinite.sydney/darkmode/", languages: {"x-default":"https://aenfinite.sydney/darkmode/","en":"https://aenfinite.sydney/darkmode/","es":"https://aenfinite.sydney/es/darkmode/","fr":"https://aenfinite.sydney/fr/darkmode/","de":"https://aenfinite.sydney/de/darkmode/","it":"https://aenfinite.sydney/it/darkmode/","ar":"https://aenfinite.sydney/ar/darkmode/","pt":"https://aenfinite.sydney/pt/darkmode/","zh":"https://aenfinite.sydney/zh/darkmode/","hi":"https://aenfinite.sydney/hi/darkmode/","nl":"https://aenfinite.sydney/nl/darkmode/","ja":"https://aenfinite.sydney/ja/darkmode/","ko":"https://aenfinite.sydney/ko/darkmode/"} },
-  openGraph: {"title":"AenfiniteÂ® â€“ Global Digital Agency for Web Design, Branding, SEO & AI Solutions","description":"AenfiniteÂ® delivers world-class Web Design, Branding, UI/UX, SEO, Marketing, and AI-driven automation solutions. Based in New South Wales with clients across the globe.","url":"https://aenfinite.sydney/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.sydney/wp-content/uploads/2025/01/aenfinite-darkmode-thumbnail.jpg"}]},
-  twitter: {"card":"summary_large_image","title":"AenfiniteÂ® â€“ Global Digital Agency for Web Design, Branding, SEO & AI Solutions","description":"AenfiniteÂ® is a creative digital agency offering Web Design, Branding, SEO, Marketing, and AI-driven business automation solutions for global brands.","images":["https://aenfinite.sydney/wp-content/uploads/2025/01/aenfinite-darkmode-thumbnail.jpg"]},
+  alternates: { canonical: "https://aenfinite.sydney/darkmode/", languages: {"x-default":"https://aenfinite.sydney/darkmode/","en":"https://aenfinite.sydney/darkmode/"} },
+  openGraph: {"title":"Aenfinite® – Global Digital Agency for Web Design, Branding, SEO & AI Solutions","description":"Aenfinite® delivers world-class Web Design, Branding, UI/UX, SEO, Marketing, and AI-driven automation solutions. Based in New South Wales with clients across the globe.","url":"https://aenfinite.sydney/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.sydney/wp-content/uploads/2025/01/aenfinite-darkmode-thumbnail.jpg"}]},
+  twitter: {"card":"summary_large_image","title":"Aenfinite® – Global Digital Agency for Web Design, Branding, SEO & AI Solutions","description":"Aenfinite® is a creative digital agency offering Web Design, Branding, SEO, Marketing, and AI-driven business automation solutions for global brands.","images":["https://aenfinite.sydney/wp-content/uploads/2025/01/aenfinite-darkmode-thumbnail.jpg"]},
   robots: { index: true, follow: true },
 };
 
@@ -817,7 +817,7 @@ websites &amp; apps on beast mode.</h2>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">CycleThe6 â€“ Brand Identity & Logo Collection</div>
+                <div class="card-name">CycleThe6 – Brand Identity & Logo Collection</div>
                 <div class="card-tags">
                     <ul>
                         <li>Brand Identity</li>
@@ -841,7 +841,7 @@ websites &amp; apps on beast mode.</h2>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">Muskfume â€“ Luxury Fragrance Branding</div>
+                <div class="card-name">Muskfume – Luxury Fragrance Branding</div>
                 <div class="card-tags">
                     <ul>
                         <li>Luxury Branding</li>
@@ -865,7 +865,7 @@ websites &amp; apps on beast mode.</h2>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">RoboPhil â€“ AI Trading Platform & Technology Innovation</div>
+                <div class="card-name">RoboPhil – AI Trading Platform & Technology Innovation</div>
                 <div class="card-tags">
                     <ul>
                         <li>AI Platform</li>
@@ -889,7 +889,7 @@ websites &amp; apps on beast mode.</h2>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">Blue Vine Marketing â€“ Professional Business Platform</div>
+                <div class="card-name">Blue Vine Marketing – Professional Business Platform</div>
                 <div class="card-tags">
                     <ul>
                         <li>Marketing Platform</li>
@@ -913,7 +913,7 @@ websites &amp; apps on beast mode.</h2>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">HusnOhaya â€“ E-commerce Platform & Shopping Solution</div>
+                <div class="card-name">HusnOhaya – E-commerce Platform & Shopping Solution</div>
                 <div class="card-tags">
                     <ul>
                         <li>E-commerce Development</li>
@@ -937,7 +937,7 @@ websites &amp; apps on beast mode.</h2>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">AlgoPros â€“ Algorithm Solutions & Tech Branding</div>
+                <div class="card-name">AlgoPros – Algorithm Solutions & Tech Branding</div>
                 <div class="card-tags">
                     <ul>
                         <li>Tech Branding</li>
@@ -961,7 +961,7 @@ websites &amp; apps on beast mode.</h2>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">AfroPop â€“ Collaboration Platform & Social Network</div>
+                <div class="card-name">AfroPop – Collaboration Platform & Social Network</div>
                 <div class="card-tags">
                     <ul>
                         <li>Social Platform</li>
@@ -985,7 +985,7 @@ websites &amp; apps on beast mode.</h2>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">KhaTech â€“ Marketing Platform & SaaS Solution</div>
+                <div class="card-name">KhaTech – Marketing Platform & SaaS Solution</div>
                 <div class="card-tags">
                     <ul>
                         <li>Marketing SaaS</li>
@@ -1009,7 +1009,7 @@ websites &amp; apps on beast mode.</h2>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">AM-KI â€“ Compliance Services & Corporate Identity</div>
+                <div class="card-name">AM-KI – Compliance Services & Corporate Identity</div>
                 <div class="card-tags">
                     <ul>
                         <li>Corporate Identity</li>
@@ -1033,7 +1033,7 @@ websites &amp; apps on beast mode.</h2>
         </div>
         <div class="card-bottom">
             <div class="card-info">
-                <div class="card-name">Luna Wick â€“ Creative Branding & Artistic Excellence</div>
+                <div class="card-name">Luna Wick – Creative Branding & Artistic Excellence</div>
                 <div class="card-tags">
                     <ul>
                         <li>Creative Branding</li>
@@ -1711,7 +1711,7 @@ export default function Page() {
     {
       "@type": "Organization",
       "@id": "https://aenfinite.sydney/#organization",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "url": "https://aenfinite.sydney/",
       "logo": "https://aenfinite.sydney/wp-content/uploads/2025/01/aenfinite-logo.png",
       "sameAs": [
@@ -1724,7 +1724,7 @@ export default function Page() {
       "@type": "WebSite",
       "@id": "https://aenfinite.sydney/#website",
       "url": "https://aenfinite.sydney/",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "publisher": { "@id": "https://aenfinite.sydney/#organization" },
       "inLanguage": "en-US"
     },
@@ -1732,8 +1732,8 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.sydney/#webpage",
       "url": "https://aenfinite.sydney/",
-      "name": "AenfiniteÂ® â€“ Global Digital Agency for Web Design, Branding, SEO & AI Solutions",
-      "description": "AenfiniteÂ® is a global digital agency offering creative Web Design, UI/UX, Branding, SEO, Digital Marketing, and AI-powered business solutions. Based in New South Wales with worldwide clients.",
+      "name": "Aenfinite® – Global Digital Agency for Web Design, Branding, SEO & AI Solutions",
+      "description": "Aenfinite® is a global digital agency offering creative Web Design, UI/UX, Branding, SEO, Digital Marketing, and AI-powered business solutions. Based in New South Wales with worldwide clients.",
       "inLanguage": "en-US",
       "isPartOf": { "@id": "https://aenfinite.sydney/#website" },
       "primaryImageOfPage": {

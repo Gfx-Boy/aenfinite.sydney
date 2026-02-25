@@ -1,13 +1,13 @@
-﻿import type { Metadata } from 'next';
+import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Ansu - Advanced Neural Interface & Brain-Computer Technology Platform | AenfiniteÂ®",
-  description: "Revolutionary neural interface platform featuring brain-computer connectivity, cognitive enhancement tools, real-time neural analytics, and advanced neurotechnology developed and designed by AenfiniteÂ®",
+  title: "Ansu - Advanced Neural Interface & Brain-Computer Technology Platform | Aenfinite®",
+  description: "Revolutionary neural interface platform featuring brain-computer connectivity, cognitive enhancement tools, real-time neural analytics, and advanced neurotechnology developed and designed by Aenfinite®",
   keywords: "Ansu neural interface, brain-computer technology, neurotechnology platform, UI UX design, Aenfinite project",
-  alternates: { canonical: "https://aenfinite.sydney/work/ansu/", languages: {"x-default":"https://aenfinite.sydney/work/ansu/","en":"https://aenfinite.sydney/work/ansu/","es":"https://aenfinite.sydney/es/work/ansu/","fr":"https://aenfinite.sydney/fr/work/ansu/","de":"https://aenfinite.sydney/de/work/ansu/","it":"https://aenfinite.sydney/it/work/ansu/","ar":"https://aenfinite.sydney/ar/work/ansu/","pt":"https://aenfinite.sydney/pt/work/ansu/","zh":"https://aenfinite.sydney/zh/work/ansu/","hi":"https://aenfinite.sydney/hi/work/ansu/","nl":"https://aenfinite.sydney/nl/work/ansu/","ja":"https://aenfinite.sydney/ja/work/ansu/","ko":"https://aenfinite.sydney/ko/work/ansu/"} },
-  openGraph: {"title":"Ansu - Advanced Neural Interface & Brain-Computer Technology Platform | AenfiniteÂ®","description":"Revolutionary neural interface platform featuring brain-computer connectivity, cognitive enhancement tools, real-time neural analytics, and advanced neurotechnology developed and designed by AenfiniteÂ®","url":"https://aenfinite.sydney/work/ansu/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.sydney/wp-content/themes/aenfinite.sydney/processed/ansu-thumbnail.avif"}]},
-  twitter: {"card":"summary_large_image","title":"Ansu - Advanced Neural Interface & Brain-Computer Technology Platform | AenfiniteÂ®","description":"Revolutionary neural interface platform featuring brain-computer connectivity, cognitive enhancement tools, real-time neural analytics, and advanced neurotechnology developed and designed by AenfiniteÂ®","images":["https://aenfinite.sydney/wp-content/themes/aenfinite.sydney/processed/ansu-thumbnail.avif"]},
+  alternates: { canonical: "https://aenfinite.sydney/work/ansu/", languages: {"x-default":"https://aenfinite.sydney/work/ansu/","en":"https://aenfinite.sydney/work/ansu/"} },
+  openGraph: {"title":"Ansu - Advanced Neural Interface & Brain-Computer Technology Platform | Aenfinite®","description":"Revolutionary neural interface platform featuring brain-computer connectivity, cognitive enhancement tools, real-time neural analytics, and advanced neurotechnology developed and designed by Aenfinite®","url":"https://aenfinite.sydney/work/ansu/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.sydney/wp-content/themes/aenfinite.sydney/processed/ansu-thumbnail.avif"}]},
+  twitter: {"card":"summary_large_image","title":"Ansu - Advanced Neural Interface & Brain-Computer Technology Platform | Aenfinite®","description":"Revolutionary neural interface platform featuring brain-computer connectivity, cognitive enhancement tools, real-time neural analytics, and advanced neurotechnology developed and designed by Aenfinite®","images":["https://aenfinite.sydney/wp-content/themes/aenfinite.sydney/processed/ansu-thumbnail.avif"]},
   robots: { index: true, follow: true },
 };
 
@@ -485,7 +485,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		'https://www.googletagmanager.com/gtm5445.html?id='+i+dl;f.parentNode.insertBefore(j,f);
 		})(window,document,'script','dataLayer','GTM-53L4TW5R');</script>
-<script> (function(){ var s = document.createElement('script'); var h = document.querySelector('head') || document.body; s.src = 'https://acsbapp.com/apps/app/dist/js/app.js'; s.async = true; s.onload = function(){ acsbJS.init({ statementLink : '', footerHtml : 'Web Accessibility Powered by Aenfinite with ï¸', hideMobile : false, hideTrigger : false, disableBgProcess : false, language : 'en', position : 'left', leadColor : '#000000', triggerColor : '#050505', triggerRadius : '10px', triggerPositionX : 'left', triggerPositionY : 'bottom', triggerIcon : 'display', triggerSize : 'small', triggerOffsetX : 40, triggerOffsetY : 40, mobile : { triggerSize : 'small', triggerPositionX : 'right', triggerPositionY : 'center', triggerOffsetX : 10, triggerOffsetY : 0, triggerRadius : '50%' } }); }; h.appendChild(s); })(); </script>
+<script> (function(){ var s = document.createElement('script'); var h = document.querySelector('head') || document.body; s.src = 'https://acsbapp.com/apps/app/dist/js/app.js'; s.async = true; s.onload = function(){ acsbJS.init({ statementLink : '', footerHtml : 'Web Accessibility Powered by Aenfinite with ️', hideMobile : false, hideTrigger : false, disableBgProcess : false, language : 'en', position : 'left', leadColor : '#000000', triggerColor : '#050505', triggerRadius : '10px', triggerPositionX : 'left', triggerPositionY : 'bottom', triggerIcon : 'display', triggerSize : 'small', triggerOffsetX : 40, triggerOffsetY : 40, mobile : { triggerSize : 'small', triggerPositionX : 'right', triggerPositionY : 'center', triggerOffsetX : 10, triggerOffsetY : 0, triggerRadius : '50%' } }); }; h.appendChild(s); })(); </script>
 <script>
 		document.addEventListener('DOMContentLoaded', function() {
 			// Check if it's a mobile device
@@ -633,7 +633,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                 <a href="/services/">Services</a>
                                 <ul id="menu-header-services-menu" class="dropdown-list js-dropdown-list">
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">Development Solutions â€º</a>
+                                        <a href="#">Development Solutions ›</a>
                                         <ul class="sub-menu">
                                             <li><a href="/services/wordpress-websites/">WordPress Websites</a></li>
 <li><a href="/services/e-commerce-websites/">E-Commerce Websites</a></li>
@@ -644,7 +644,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 											<li><a href="/services/web-design-and-branding-for-real-estate/">Real Estate Web Solutions</a></li>                                      </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">Design & Creative Services â€º</a>
+                                        <a href="#">Design & Creative Services ›</a>
                                         <ul class="sub-menu">
                                             <li><a href="/services/ui-ux-design/">UI/UX Design</a></li>
 
@@ -656,7 +656,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">Marketing & Digital Solutions â€º</a>
+                                        <a href="#">Marketing & Digital Solutions ›</a>
                                         <ul class="sub-menu">
                                             <li><a href="/services/digital-marketing/">Digital Marketing Strategy</a></li>
                                             <li><a href="/services/search-engine-optimization/">Search Engine Optimization (SEO)</a></li>
@@ -666,7 +666,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
                                         </ul>
                                     </li>
                                     <li class="menu-item menu-item-has-children">
-                                        <a href="#">AI & Technology Solutions â€º</a>
+                                        <a href="#">AI & Technology Solutions ›</a>
                                         <ul class="sub-menu">
                                             <li><a href="/services/ai-chatbots-&-virtual-assistants/">AI Chatbots & Virtual Assistants</a></li>
                                             <li><a href="/services/workflow-&-business-automation/">Workflow & Business Automation</a></li>
@@ -928,7 +928,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div class="keygrid">
 						<div class="keygrid-col keygrid-col__c">
 							<div class="intro-start-image js-aos fadein">
-																<img src="/wp-content/themes/aenfinite.sydney/processed/ansuthumbnail.avif" alt="Ansu Advanced Neural Interface Technology Platform Developed by AenfiniteÂ®" loading="lazy" decoding="async" />
+																<img src="/wp-content/themes/aenfinite.sydney/processed/ansuthumbnail.avif" alt="Ansu Advanced Neural Interface Technology Platform Developed by Aenfinite®" loading="lazy" decoding="async" />
 																<div class="ico-share-social">
 									<img src="/wp-content/uploads/2023/12/" alt="" loading="lazy" decoding="async">
 								</div>
@@ -943,7 +943,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 <div>
 <div class="pt-0.5 juice:pt-0">
 <div class="gizmo-bot-avatar flex h-6 w-6 items-center justify-center overflow-hidden rounded-full juice:h-8 juice:w-8">
-<div class="relative p-1 rounded-sm flex items-center justify-center bg-token-main-surface-primary text-token-text-primary h-8 w-8">Ansu is a revolutionary neural interface platform that combines brain-computer connectivity, cognitive enhancement technology, and real-time neural analytics. Our team at AenfiniteÂ® developed and designed an advanced neurotechnology platform featuring neural signal processing, brain wave integration, cognitive enhancement tools, and neural pattern recognition that helps users achieve unprecedented mind-computer interaction through cutting-edge technology.</div>
+<div class="relative p-1 rounded-sm flex items-center justify-center bg-token-main-surface-primary text-token-text-primary h-8 w-8">Ansu is a revolutionary neural interface platform that combines brain-computer connectivity, cognitive enhancement technology, and real-time neural analytics. Our team at Aenfinite® developed and designed an advanced neurotechnology platform featuring neural signal processing, brain wave integration, cognitive enhancement tools, and neural pattern recognition that helps users achieve unprecedented mind-computer interaction through cutting-edge technology.</div>
 </div>
 </div>
 </div>
@@ -959,7 +959,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 																			</div>
 								</div>
 								<div class="tagslist">
-									<b>AenfiniteÂ® Scope of Work:</b>
+									<b>Aenfinite® Scope of Work:</b>
 									<ul>
 										<li>Neural Interface Platform Development</li><li>Brain-Computer Interface Development</li><li>Neurotechnology Platform Development</li><li>Neural Signal Processing</li><li>Cognitive Enhancement Tools</li><li>Real-time Neural Analytics Dashboard</li><li>Neural Pattern Recognition System</li><li>Brain Wave Data Integration</li>									</ul>
 								</div>
@@ -1013,12 +1013,12 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<span itemprop="name" class="name-project">Ansu - Advanced Neural Interface & Brain-Computer Technology Platform</span>
 					<div class="wrapper">
 						<div class="inner-wrapper">
-						  	<h2>Ansu Client Testimonial for AenfiniteÂ®</h2>
+						  	<h2>Ansu Client Testimonial for Aenfinite®</h2>
 						  	<div class="container">
 								<div class="con-stats">
 							  		<div class="con-tittle" itemprop="reviewBody">
 										<p>
-											"AenfiniteÂ® developed and designed a groundbreaking neural interface platform that revolutionized our brain-computer research capabilities. The neural signal processing is incredibly precise, the cognitive enhancement tools are seamless, and the real-time analytics work flawlessly. Our research team loves how Ansu makes complex neurotechnology accessible while maintaining scientific accuracy. Truly pioneering development and design work!"										</p>
+											"Aenfinite® developed and designed a groundbreaking neural interface platform that revolutionized our brain-computer research capabilities. The neural signal processing is incredibly precise, the cognitive enhancement tools are seamless, and the real-time analytics work flawlessly. Our research team loves how Ansu makes complex neurotechnology accessible while maintaining scientific accuracy. Truly pioneering development and design work!"										</p>
 							  		</div>
 							  		<div class="con-par">
 										<div class="icons-list" itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
@@ -1036,7 +1036,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										<img src="/wp-content/themes/aenfinite.sydney/images/testimonial4.webp" alt="Dr. Marcus Chen - Ansu CTO" class="img-avatar" loading="lazy" decoding="async">
 										<div>
 											<p class="par-avatar" itemprop="author">
-												<b>âœ¨ Dr. Marcus Chen,</b><br>
+												<b>✨ Dr. Marcus Chen,</b><br>
 												CTO & Co-Founder, Ansu Neural Technologies											</p>
 										</div>
 							  		</div>
@@ -1622,7 +1622,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										<div class="step-highlight">Business personas, Journey mapping, Compliance insights</div>
 									</div>
 									<div class="step-visual">
-										<div class="process-icon">ðŸ”</div>
+										<div class="process-icon">🔍</div>
 									</div>
 								</div>
 								
@@ -1634,7 +1634,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										<div class="step-highlight">Information architecture, User flows, Interactive prototypes</div>
 									</div>
 									<div class="step-visual">
-										<div class="process-icon">ðŸ“</div>
+										<div class="process-icon">📐</div>
 									</div>
 								</div>
 								
@@ -1646,7 +1646,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										<div class="step-highlight">Design tokens, Component library, Brand guidelines</div>
 									</div>
 									<div class="step-visual">
-										<div class="process-icon">ðŸŽ¨</div>
+										<div class="process-icon">🎨</div>
 									</div>
 								</div>
 								
@@ -1658,7 +1658,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										<div class="step-highlight">Final designs, Micro-interactions, Animation specs</div>
 									</div>
 									<div class="step-visual">
-										<div class="process-icon">ðŸŒ</div>
+										<div class="process-icon">🌍</div>
 									</div>
 								</div>
 								
@@ -1670,7 +1670,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 										<div class="step-highlight">Cloud infrastructure, Mobile optimization, CFDI integration</div>
 									</div>
 									<div class="step-visual">
-										<div class="process-icon">ðŸš€</div>
+										<div class="process-icon">🚀</div>
 									</div>
 								</div>
 							</div>
@@ -1876,7 +1876,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 						<div class="keygrid">
 							<div class="keygrid-col keygrid-col__c">
 								<div class="intro-start-image js-aos fadein">
-																		<img src="thumbnail.webp" alt="FiscoClic Electronic Invoicing App by AenfiniteÂ®" loading="lazy" decoding="async" />
+																		<img src="thumbnail.webp" alt="FiscoClic Electronic Invoicing App by Aenfinite®" loading="lazy" decoding="async" />
 																														
 											
 																											
@@ -2010,8 +2010,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									</div>
 									<div class="service-text">
 										<p> we design and develop world-class websites that combine modern design practices with powerful functionality. 
-        Our mobile-first, SEO-friendly websites are built to performâ€”optimized for speed, responsive across all devices, and crafted to deliver an exceptional user experience. 
-        From strategy to launch, our team focuses on creating a unique online presence that attracts your target audience, boosts engagement, drives conversions, and strengthens your brandâ€™s authority.</p>
+        Our mobile-first, SEO-friendly websites are built to perform—optimized for speed, responsive across all devices, and crafted to deliver an exceptional user experience. 
+        From strategy to launch, our team focuses on creating a unique online presence that attracts your target audience, boosts engagement, drives conversions, and strengthens your brand’s authority.</p>
 									</div>
 									<div class="service-action">
 										<a href="/contact/" class="redlink">
@@ -2047,8 +2047,8 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 									</div>
 									<div class="service-text">
 										<p>our branding and logo design experts specialize in creating powerful brand identities that leave a lasting impression. 
-    Whether youâ€™re launching a new business, rebranding to reach fresh audiences, or refining your existing identity, we craft custom logos, brand guidelines, and visual systems tailored to your goals. 
-    With a distinctive and cohesive brand presence, youâ€™ll build trust, attract loyal customers, and maximize your business potential.</p>
+    Whether you’re launching a new business, rebranding to reach fresh audiences, or refining your existing identity, we craft custom logos, brand guidelines, and visual systems tailored to your goals. 
+    With a distinctive and cohesive brand presence, you’ll build trust, attract loyal customers, and maximize your business potential.</p>
 									</div>
 									<div class="service-action">
 										<a href="/contact/" class="redlink">
@@ -2221,7 +2221,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 																					</div>
 									</div>
 									<div class="service-text">
-										<p>We believe design is more than just visuals â€” itâ€™s a strategy to connect brands with people. 
+										<p>We believe design is more than just visuals — it’s a strategy to connect brands with people. 
     Our graphic design team blends creativity with purpose to produce stunning digital assets, print materials, and marketing visuals that tell your story. 
     From bold social media campaigns to polished corporate materials, every design is crafted to inspire action, build trust, and reflect your unique brand personality. 
     We deliver innovative, results-driven designs that capture attention and keep your audience engaged.</p>
@@ -2258,7 +2258,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 																					</div>
 									</div>
 									<div class="service-text">
-										<p>we create packaging that does more than protect a product â€” it tells a story and grabs attention on the shelf. 
+										<p>we create packaging that does more than protect a product — it tells a story and grabs attention on the shelf. 
     Our team blends creative design with production-ready solutions, ensuring your packaging not only looks stunning but is practical and cost-effective to manufacture. 
     From innovative concepts for new startups to reimagining established product lines, we craft packaging that stands out, builds emotional connection, and turns casual shoppers into loyal customers.</p>
 									</div>
@@ -2488,7 +2488,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 					<div>
 						<div class="footer-caption">
 							<div class="title title__default">
-								<span>Have a Project in Mind? Letâ€™s Build Something Great Together.</span>
+								<span>Have a Project in Mind? Let’s Build Something Great Together.</span>
 								<a href="../../contact/" class="redlink">
 									<span>let's talk</span>
 								</a>
@@ -2710,7 +2710,7 @@ const pageContent = `<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width
 		}
 		
 		.list-item input[type="checkbox"]:checked + .list-item-label::after {
-			content: 'âœ“';
+			content: '✓';
 			position: absolute;
 			right: 12px;
 			top: 50%;
@@ -3078,7 +3078,7 @@ export default function Page() {
     {
       "@type": "Organization",
       "@id": "https://aenfinite.sydney/#organization",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "sameAs": [
         "https://www.facebook.com/aenfinite/",
         "https://twitter.com/digitaldesignny",
@@ -3091,8 +3091,8 @@ export default function Page() {
       "@type": "WebSite",
       "@id": "https://aenfinite.sydney/#website",
       "url": "https://aenfinite.sydney",
-      "name": "AenfiniteÂ®",
-      "alternateName": "AenfiniteÂ® - Branding & Web Design Division",
+      "name": "Aenfinite®",
+      "alternateName": "Aenfinite® - Branding & Web Design Division",
       "publisher": { "@id": "https://aenfinite.sydney/#organization" },
       "inLanguage": "en-US"
     },
@@ -3116,7 +3116,7 @@ export default function Page() {
       "@type": "WebPage",
       "@id": "https://aenfinite.sydney/work/ansu/#webpage",
       "url": "https://aenfinite.sydney/work/ansu/",
-      "name": "Ansu - Advanced Neural Interface & Brain-Computer Technology Platform | AenfiniteÂ®",
+      "name": "Ansu - Advanced Neural Interface & Brain-Computer Technology Platform | Aenfinite®",
       "isPartOf": { "@id": "https://aenfinite.sydney/#website" },
       "primaryImageOfPage": {
         "@type": "ImageObject",

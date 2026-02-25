@@ -1,11 +1,11 @@
-﻿import type { Metadata } from 'next';
+import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
   title: "Blue Vine Marketing - Digital Marketing Agency & Growth Solutions | Aenfinite",
   description: "Results-driven digital marketing agency platform featuring social media management, SEO, Google Ads, and lead generation solutions with comprehensive growth strategies designed by Aenfinite",
   keywords: "Blue Vine Marketing, digital marketing agency website, lead generation, social media management, Aenfinite project",
-  alternates: { canonical: "https://aenfinite.sydney/work/blue-vine-marketing/", languages: {"x-default":"https://aenfinite.sydney/work/blue-vine-marketing/","en":"https://aenfinite.sydney/work/blue-vine-marketing/","es":"https://aenfinite.sydney/es/work/blue-vine-marketing/","fr":"https://aenfinite.sydney/fr/work/blue-vine-marketing/","de":"https://aenfinite.sydney/de/work/blue-vine-marketing/","it":"https://aenfinite.sydney/it/work/blue-vine-marketing/","ar":"https://aenfinite.sydney/ar/work/blue-vine-marketing/","pt":"https://aenfinite.sydney/pt/work/blue-vine-marketing/","zh":"https://aenfinite.sydney/zh/work/blue-vine-marketing/","hi":"https://aenfinite.sydney/hi/work/blue-vine-marketing/","nl":"https://aenfinite.sydney/nl/work/blue-vine-marketing/","ja":"https://aenfinite.sydney/ja/work/blue-vine-marketing/","ko":"https://aenfinite.sydney/ko/work/blue-vine-marketing/"} },
+  alternates: { canonical: "https://aenfinite.sydney/work/blue-vine-marketing/", languages: {"x-default":"https://aenfinite.sydney/work/blue-vine-marketing/","en":"https://aenfinite.sydney/work/blue-vine-marketing/"} },
   openGraph: {"title":"Blue Vine Marketing - Digital Marketing Agency & Growth Solutions | Aenfinite","description":"Results-driven digital marketing agency platform featuring social media management, SEO, Google Ads, and lead generation solutions with comprehensive growth strategies designed by Aenfinite","url":"https://aenfinite.sydney/work/blue-vine-marketing/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.sydney/wp-content/themes/aenfinite.sydney/processed/blue-vine-marketingthumbnail.avif"}]},
   twitter: {"card":"summary_large_image","title":"Blue Vine Marketing - Digital Marketing Agency & Growth Solutions | Aenfinite","description":"Results-driven digital marketing agency platform featuring social media management, SEO, Google Ads, and lead generation solutions with comprehensive growth strategies designed by Aenfinite","images":["https://aenfinite.sydney/wp-content/themes/aenfinite.sydney/processed/blue-vine-marketingthumbnail.avif"]},
   robots: { index: true, follow: true },
@@ -2459,7 +2459,7 @@ export default function Page() {
     {
       "@type": "Organization",
       "@id": "https://aenfinite.sydney/#organization",
-      "name": "AenfiniteÂ®",
+      "name": "Aenfinite®",
       "sameAs": [
         "https://www.facebook.com/aenfinite/",
         "https://twitter.com/digitaldesignny",
@@ -2472,8 +2472,8 @@ export default function Page() {
       "@type": "WebSite",
       "@id": "https://aenfinite.sydney/#website",
       "url": "https://aenfinite.sydney",
-      "name": "AenfiniteÂ®",
-      "alternateName": "AenfiniteÂ® - Branding & Web Design Division",
+      "name": "Aenfinite®",
+      "alternateName": "Aenfinite® - Branding & Web Design Division",
       "publisher": { "@id": "https://aenfinite.sydney/#organization" },
       "inLanguage": "en-US"
     },
