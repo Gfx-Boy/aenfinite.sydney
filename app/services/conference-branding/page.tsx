@@ -2691,7 +2691,9 @@ on-page SEO, technical audits, and link building strategies.",					"geoMidpoint"
 <!-- wp-polyfill removed -->
 
 	<!-- Cloudflare challenge removed -->	<!-- Universal Button and Checkbox Highlighting Script -->	<script src="js/button-highlights.js"></script>
-		`;
+		
+<div class="sitemap-footer" style="text-align: center; padding: 20px 0 40px;"><a href="/sitemap.xml" style="color: #999; text-decoration: none; font-size: 14px; font-family: sans-serif; transition: color 0.3s;" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#999'">Sitemap</a></div>
+`;
 
 export default function Page() {
   return (
