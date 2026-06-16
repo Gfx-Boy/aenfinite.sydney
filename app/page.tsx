@@ -2785,11 +2785,10 @@ export default function Page() {
       "name": "Aenfinite",
       "url": "https://aenfinite.sydney",
       "sameAs": [
-        "https://www.facebook.com/aenfinite/",
-        "https://www.linkedin.com/company/aenfinite",
-        "https://www.instagram.com/aenfinite/",
-        "https://twitter.com/aenfinite"
-      ],
+					"https://www.facebook.com/aenfinite/",
+					"https://twitter.com/aenfinitee",
+					"https://www.instagram.com/Aenfinite/"
+				  ],
       "potentialAction": {
         "@type": "SearchAction",
         "target": {
@@ -2864,11 +2863,10 @@ export default function Page() {
         "availableLanguage": "English"
       },
       "sameAs": [
-        "https://www.facebook.com/aenfinite/",
-        "https://www.linkedin.com/company/aenfinite",
-        "https://www.instagram.com/aenfinite/",
-        "https://twitter.com/aenfinite"
-      ]
+					"https://www.facebook.com/aenfinite/",
+					"https://twitter.com/aenfinitee",
+					"https://www.instagram.com/Aenfinite/"
+				  ]
     },
     {
       "@type": "WebSite",

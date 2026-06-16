@@ -3121,10 +3121,10 @@ export default function Page() {
       "url": "https://aenfinite.sydney/wp-content/themes/aenfinite.sydney/images/logo.png"
     },
     "sameAs": [
-      "https://www.facebook.com/aenfinite/",
-      "https://twitter.com/aenfinitee",
-      "https://www.instagram.com/aenfinite/"
-    ]
+					"https://www.facebook.com/aenfinite/",
+					"https://twitter.com/aenfinitee",
+					"https://www.instagram.com/Aenfinite/"
+				  ]
   },
   "mainEntity": {
     "@type": "Organization",
@@ -3151,10 +3151,10 @@ export default function Page() {
       }
     ],
     "sameAs": [
-      "https://www.facebook.com/aenfinite/",
-      "https://twitter.com/aenfinitee",
-      "https://www.instagram.com/aenfinite/"
-    ]
+					"https://www.facebook.com/aenfinite/",
+					"https://twitter.com/aenfinitee",
+					"https://www.instagram.com/Aenfinite/"
+				  ]
   }
 }` }}
         />

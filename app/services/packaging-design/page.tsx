@@ -2642,13 +2642,13 @@ document.addEventListener('keydown', function(event) {
 				  "sameAs": [
 					"https://www.facebook.com/aenfinite/",
 					"https://twitter.com/aenfinitee",
-					"https://www.instagram.com/Aenfinite/",
+					"https://www.instagram.com/Aenfinite/"
 				  ],
-				  "description": "Expert search engine optimization agency specializing in keyword research, 
+				  "description": "Expert search engine optimization agency specializing in keyword research, on-page SEO, technical audits, and link building strategies.",
 				  "priceRange": "$$",
 				  "serviceArea": {
 					"@type": "GeoCircle",
-on-page SEO, technical audits, and link building strategies.",					"geoMidpoint": {
+					"geoMidpoint": {
 					  "@type": "GeoCoordinates",
 					  "latitude": -33.8688,
 					  "longitude": 151.2093
@@ -2718,10 +2718,10 @@ export default function Page() {
       "name": "Aenfinite®",
       "url": "https://aenfinite.sydney/",
       "sameAs": [
-        "https://www.facebook.com/aenfinite/",
-        "https://twitter.com/aenfinitee",
-        "https://www.instagram.com/aenfinite/"
-      ],
+					"https://www.facebook.com/aenfinite/",
+					"https://twitter.com/aenfinitee",
+					"https://www.instagram.com/Aenfinite/"
+				  ],
       "contactPoint": {
         "@type": "ContactPoint",
         "email": "contact@aenfinite.sydney",
@@ -2809,13 +2809,13 @@ export default function Page() {
 				  "sameAs": [
 					"https://www.facebook.com/aenfinite/",
 					"https://twitter.com/aenfinitee",
-					"https://www.instagram.com/Aenfinite/",
+					"https://www.instagram.com/Aenfinite/"
 				  ],
-				  "description": "Expert search engine optimization agency specializing in keyword research, 
+				  "description": "Expert search engine optimization agency specializing in keyword research, on-page SEO, technical audits, and link building strategies.",
 				  "priceRange": "$$",
 				  "serviceArea": {
 					"@type": "GeoCircle",
-on-page SEO, technical audits, and link building strategies.",					"geoMidpoint": {
+					"geoMidpoint": {
 					  "@type": "GeoCoordinates",
 					  "latitude": -33.8688,
 					  "longitude": 151.2093
