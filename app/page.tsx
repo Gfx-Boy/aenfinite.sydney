@@ -2,8 +2,8 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: "Aenfinite® | Sydney Digital Innovation Agency | AI, Software Development, Marketing & Design",
-  description: "Aenfinite® is a professional full-service digital innovation agency in Sydney delivering AI solutions & automation, custom software and app development, SEO & digital marketing, e-commerce, branding and UI/UX design. Serving businesses across the US and Canada.",
+  title: { absolute: "Aenfinite® | Sydney Digital Innovation Agency" },
+  description: "Sydney-based digital innovation agency for AI automation, custom software, web & app development, SEO & branding. Serving the US & Canada.",
   keywords: "digital agency Sydney, Sydney web design, Sydney software development, AI agency Sydney, NSW digital agency, digital agency, AI agency, AI automation services, software development agency, SEO agency, web design agency, branding agency, digital marketing agency Sydney, UI UX design, custom web development, SEO services, app development, e-commerce development, digital transformation, Aenfinite",
   alternates: { canonical: "https://aenfinite.sydney/", languages: {"x-default":"https://aenfinite.sydney/","en":"https://aenfinite.sydney/"} },
   openGraph: {"title":"Aenfinite® | Digital Innovation Agency | AI, Software Development, Marketing & Design","description":"Aenfinite® is a professional full-service digital innovation agency delivering AI solutions & automation, custom software and app development, SEO & digital marketing, e-commerce, branding and UI/UX design. Serving businesses across the US and Canada.","url":"https://aenfinite.sydney/","siteName":"Aenfinite","type":"website","images":[{"url":"https://aenfinite.sydney/wp-content/themes/aenfinite.sydney/images/thumbnail.jpg"}]},
