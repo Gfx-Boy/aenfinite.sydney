@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import HtmlPage from '@/components/HtmlPage';
 
 export const metadata: Metadata = {
-  title: { absolute: "Aenfinite® | Sydney Digital Innovation Agency" },
+  title: { absolute: "Aenfinite® | Sydney Web, App & AI Automation Agency" },
   description: "Sydney-based digital innovation agency for AI automation, custom software, web & app development, SEO & branding. Serving the US & Canada.",
   keywords: "digital agency Sydney, Sydney web design, Sydney software development, AI agency Sydney, NSW digital agency, digital agency, AI agency, AI automation services, software development agency, SEO agency, web design agency, branding agency, digital marketing agency Sydney, UI UX design, custom web development, SEO services, app development, e-commerce development, digital transformation, Aenfinite",
   alternates: { canonical: "https://aenfinite.sydney/", languages: {"x-default":"https://aenfinite.sydney/","en":"https://aenfinite.sydney/"} },
